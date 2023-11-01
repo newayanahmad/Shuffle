@@ -21,7 +21,7 @@ require (
 	github.com/shuffle/shuffle-shared v0.4.66
 	golang.org/x/crypto v0.14.0
 	google.golang.org/api v0.125.0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.22.5
